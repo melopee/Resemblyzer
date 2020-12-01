@@ -1,3 +1,7 @@
+#
+*wav
+
+#
 .idea/
 *.pyc
 .DS_Store
